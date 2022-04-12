@@ -2,7 +2,8 @@
 
 Crea el método `max` que recibe como parámetro un `Array` de números y regresa el número más grande. 
 
-> Restricción: Crea tu propio algoritmo no utilices métodos nativos de ruby de la clase array como (`min` y `max`).
+> Restricción: Crea tu propio algoritmo no utilices métodos nativos de ruby de la clase array (p.e. `min`, `max`, `sort`).
+
 
 ```ruby
 #Driver code
